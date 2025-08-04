@@ -1,5 +1,5 @@
 
-#🔹 The Art of Embedded Programming 🔹
+# The Art of Embedded Programming
 
 
 
