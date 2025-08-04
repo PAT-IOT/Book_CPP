@@ -16,3 +16,4 @@ Compiled and published by the Software Reliability Enhancement Center, a divisio
 Whether you’re an embedded engineer or developer, if you want your code to be correct, optimized, and dependable, this is a must-read.
 
 I highly recommend every embedded systems professional to explore this essential resource. 😍 
+![Embedded System Coding Reference](escr.png)
